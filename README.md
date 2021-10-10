@@ -6,7 +6,7 @@ Citi Bike Analysis
 
 For this assignment I decided to take a closer look at Citi Bike data for July, 2013. I chose July because I figured it would be a very active month for Citi Bike due to better weather and higher tourism during the summer. Looking at this data I recognized that the main distinct demographic groups are based on age and gender. Before creating any data visualizations, some questions came to mind. For gender, my questions were: “Do males tend to ride Citi Bikes longer than females?” and “How does trip duration amongst both genders compare to the amount of rides each gender is taking throughout the month?” For age, my question was: “Are younger age groups riding bikes for longer durations of time than older age groups?” I was also curious to see if older age groups were taking more rides than younger age groups, potentially to avoid longer walks when traveling through NYC. The results were surprising, and the data visualizations can be viewed using the link below:
 
-https://public.tableau.com/app/profile/john.k1575/viz/TableauHW-JohnK/ACloserLook-Intro?publish=yes
+https://public.tableau.com/app/profile/john.k1575/viz/TableauHW-JohnK/CitiBikeAnalysis-July2013?publish=yes
 
 **Map Analysis**
 
