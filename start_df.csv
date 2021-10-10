@@ -1,0 +1,330 @@
+start station name,frequency,start/end
+W 20 St & 11 Ave,8049,Start
+E 17 St & Broadway,7814,Start
+West St & Chambers St,7387,Start
+Pershing Square N,7290,Start
+Broadway & E 14 St,7167,Start
+8 Ave & W 31 St,7048,Start
+Lafayette St & E 8 St,6979,Start
+Vesey Pl & River Terrace,6829,Start
+Broadway & W 60 St,6294,Start
+8 Ave & W 33 St,6259,Start
+West Thames St,6162,Start
+Broadway & W 24 St,6090,Start
+W 41 St & 8 Ave,5817,Start
+Central Park S & 6 Ave,5789,Start
+Carmine St & 6 Ave,5738,Start
+Cleveland Pl & Spring St,5655,Start
+Broadway & E 22 St,5420,Start
+Grand Army Plaza & Central Park S,5340,Start
+Centre St & Chambers St,5290,Start
+Broadway & W 58 St,5202,Start
+Christopher St & Greenwich St,5046,Start
+Franklin St & W Broadway,5034,Start
+W Houston St & Hudson St,5008,Start
+University Pl & E 14 St,4914,Start
+W 21 St & 6 Ave,4897,Start
+W 33 St & 7 Ave,4848,Start
+E 39 St & 2 Ave,4660,Start
+MacDougal St & Prince St,4638,Start
+E 43 St & Vanderbilt Ave,4526,Start
+W 25 St & 6 Ave,4514,Start
+Pershing Square S,4492,Start
+Barrow St & Hudson St,4488,Start
+Barclay St & Church St,4474,Start
+9 Ave & W 14 St,4340,Start
+2 Ave & E 31 St,4331,Start
+W 18 St & 6 Ave,4322,Start
+Greenwich Ave & 8 Ave,4321,Start
+W 15 St & 7 Ave,4320,Start
+W 39 St & 9 Ave,4274,Start
+W 4 St & 7 Ave S,4272,Start
+Lawrence St & Willoughby St,4223,Start
+1 Ave & E 15 St,4138,Start
+W 24 St & 7 Ave,4127,Start
+E 31 St & 3 Ave,4121,Start
+W 27 St & 7 Ave,4095,Start
+E 58 St & 3 Ave,4064,Start
+W 49 St & 8 Ave,4014,Start
+Greenwich St & Warren St,4012,Start
+E 4 St & 2 Ave,3983,Start
+Lexington Ave & E 24 St,3965,Start
+9 Ave & W 45 St,3926,Start
+W 26 St & 10 Ave,3914,Start
+W 22 St & 10 Ave,3905,Start
+2 Ave & E 58 St,3896,Start
+Mercer St & Bleecker St,3882,Start
+E 25 St & 2 Ave,3881,Start
+W 13 St & 6 Ave,3879,Start
+Mott St & Prince St,3867,Start
+St Marks Pl & 2 Ave,3832,Start
+Allen St & Rivington St,3830,Start
+9 Ave & W 22 St,3827,Start
+Broadway & W 41 St,3798,Start
+W Broadway & Spring St,3763,Start
+W 56 St & 6 Ave,3725,Start
+W 22 St & 8 Ave,3724,Start
+E 11 St & 2 Ave,3696,Start
+W 43 St & 10 Ave,3686,Start
+Broadway & Battery Pl,3669,Start
+Broadway & W 32 St,3664,Start
+9 Ave & W 16 St,3646,Start
+Broadway & W 53 St,3636,Start
+LaGuardia Pl & W 3 St,3626,Start
+Broadway & W 49 St,3622,Start
+E 11 St & 1 Ave,3611,Start
+E 32 St & Park Ave,3605,Start
+W 38 St & 8 Ave,3595,Start
+8 Ave & W 52 St,3592,Start
+Washington Square E,3577,Start
+W 52 St & 11 Ave,3575,Start
+Allen St & E Houston St,3568,Start
+Greenwich St & N Moore St,3562,Start
+W 20 St & 7 Ave,3548,Start
+W 17 St & 8 Ave,3521,Start
+Washington St & Gansevoort St,3510,Start
+Great Jones St,3495,Start
+Broadway & W 55 St,3469,Start
+E 16 St & Irving Pl,3456,Start
+State St,3454,Start
+Lexington Ave & E 26 St,3426,Start
+E 20 St & 2 Ave,3378,Start
+Liberty St & Broadway,3367,Start
+W 37 St & 10 Ave,3366,Start
+W 43 St & 6 Ave,3327,Start
+12 Ave & W 40 St,3311,Start
+E 16 St & 5 Ave,3267,Start
+E 13 St & Avenue A,3226,Start
+Broadway & W 29 St,3224,Start
+W 26 St & 8 Ave,3222,Start
+E 2 St & Avenue B,3221,Start
+E 12 St & 3 Ave,3199,Start
+W 20 St & 8 Ave,3176,Start
+W 31 St & 7 Ave,3147,Start
+E 7 St & Avenue A,3139,Start
+DeKalb Ave & Hudson Ave,3114,Start
+Bank St & Washington St,3106,Start
+6 Ave & W 33 St,3102,Start
+E 10 St & Avenue A,3090,Start
+5 Ave & E 29 St,3086,Start
+South St & Gouverneur Ln,3079,Start
+E 19 St & 3 Ave,3076,Start
+Suffolk St & Stanton St,3062,Start
+Cliff St & Fulton St,3054,Start
+E 40 St & 5 Ave,3050,Start
+W 14 St & The High Line,3003,Start
+W 42 St & 8 Ave,2984,Start
+W 51 St & 6 Ave,2978,Start
+W 16 St & The High Line,2972,Start
+Elizabeth St & Hester St,2924,Start
+1 Ave & E 30 St,2906,Start
+E 23 St & 1 Ave,2904,Start
+E 39 St & 3 Ave,2903,Start
+W 59 St & 10 Ave,2902,Start
+Howard St & Centre St,2891,Start
+Mercer St & Spring St,2878,Start
+9 Ave & W 18 St,2875,Start
+10 Ave & W 28 St,2874,Start
+E 6 St & Avenue B,2859,Start
+11 Ave & W 41 St,2850,Start
+E 33 St & 1 Ave,2823,Start
+Rivington St & Chrystie St,2814,Start
+E 30 St & Park Ave S,2813,Start
+FDR Drive & E 35 St,2802,Start
+Sullivan St & Washington Sq,2799,Start
+W 45 St & 6 Ave,2799,Start
+E 3 St & 1 Ave,2789,Start
+Park Pl & Church St,2773,Start
+Forsyth St & Broome St,2750,Start
+W 11 St & 6 Ave,2747,Start
+W 47 St & 10 Ave,2745,Start
+Broadway & W 51 St,2733,Start
+E 51 St & Lexington Ave,2728,Start
+Watts St & Greenwich St,2703,Start
+Washington Pl & Broadway,2688,Start
+Bank St & Hudson St,2687,Start
+St Marks Pl & 1 Ave,2687,Start
+E 47 St & Park Ave,2681,Start
+11 Ave & W 27 St,2677,Start
+E 9 St & Avenue C,2664,Start
+Warren St & Church St,2654,Start
+E 11 St & Broadway,2645,Start
+E 2 St & 2 Ave,2609,Start
+W 13 St & 5 Ave,2603,Start
+W 37 St & 5 Ave,2591,Start
+E 53 St & Lexington Ave,2591,Start
+E 20 St & FDR Drive,2576,Start
+1 Ave & E 18 St,2571,Start
+Canal St & Rutgers St,2544,Start
+Church St & Leonard St,2543,Start
+Centre St & Worth St,2534,Start
+6 Ave & Canal St,2510,Start
+Pearl St & Hanover Square,2501,Start
+Greenwich Ave & Charles St,2500,Start
+Washington Pl & 6 Ave,2497,Start
+Murray St & West St,2490,Start
+W 45 St & 8 Ave,2476,Start
+MacDougal St & Washington Sq,2472,Start
+E 15 St & 3 Ave,2449,Start
+Broadway & W 39 St,2432,Start
+E 10 St & 5 Ave,2430,Start
+W 46 St & 11 Ave,2406,Start
+Lispenard St & Broadway,2401,Start
+W 29 St & 9 Ave,2392,Start
+Bayard St & Baxter St,2391,Start
+S 5 Pl & S 4 St,2378,Start
+Front St & Maiden Ln,2369,Start
+Hudson St & Reade St,2368,Start
+W 52 St & 5 Ave,2363,Start
+Maiden Ln & Pearl St,2346,Start
+E 47 St & 2 Ave,2343,Start
+W 13 St & 7 Ave,2328,Start
+Clark St & Henry St,2317,Start
+E 53 St & Madison Ave,2298,Start
+Allen St & Hester St,2261,Start
+Clinton St & Grand St,2248,Start
+1 Ave & E 44 St,2229,Start
+E 14 St & Avenue B,2229,Start
+E 56 St & 3 Ave,2218,Start
+W 52 St & 9 Ave,2216,Start
+Stanton St & Chrystie St,2209,Start
+Metropolitan Ave & Bedford Ave,2202,Start
+W 56 St & 10 Ave,2193,Start
+Spruce St & Nassau St,2183,Start
+Fulton St & William St,2173,Start
+Reade St & Broadway,2143,Start
+W 44 St & 5 Ave,2131,Start
+W 53 St & 10 Ave,2081,Start
+Norfolk St & Broome St,2072,Start
+William St & Pine St,2069,Start
+John St & William St,2043,Start
+Old Fulton St,2033,Start
+W 49 St & 5 Ave,2026,Start
+Perry St & Bleecker St,1999,Start
+E 48 St & 3 Ave,1995,Start
+Duane St & Greenwich St,1992,Start
+E 45 St & 3 Ave,1965,Start
+W 54 St & 9 Ave,1959,Start
+South End Ave & Liberty St,1956,Start
+E 25 St & 1 Ave,1939,Start
+South St & Whitehall St,1937,Start
+6 Ave & Broome St,1920,Start
+Front St & Washington St,1920,Start
+Old Slip & Front St,1904,Start
+Broadway & W 36 St,1899,Start
+Forsyth St & Canal St,1886,Start
+Division St & Bowery,1886,Start
+State St & Smith St,1880,Start
+Broadway & W 37 St,1872,Start
+E 51 St & 1 Ave,1869,Start
+E 20 St & Park Ave,1852,Start
+Wythe Ave & Metropolitan Ave,1845,Start
+Lafayette St & Jersey St,1792,Start
+Dean St & 4 Ave,1771,Start
+Joralemon St & Adams St,1742,Start
+E 55 St & 2 Ave,1708,Start
+E 37 St & Lexington Ave,1701,Start
+E 33 St & 5 Ave,1687,Start
+Fulton St & Rockwell Pl,1686,Start
+Water - Whitehall Plaza,1684,Start
+Henry St & Atlantic Ave,1676,Start
+W 34 St & 11 Ave,1669,Start
+Harrison St & Hudson St,1654,Start
+E 47 St & 1 Ave,1651,Start
+Atlantic Ave & Furman St,1643,Start
+St James Pl & Oliver St,1640,Start
+Ashland Pl & Hanson Pl,1617,Start
+York St & Jay St,1610,Start
+E 2 St & Avenue C,1604,Start
+Hicks St & Montague St,1603,Start
+Bialystoker Pl & Delancey St,1596,Start
+Atlantic Ave & Fort Greene Pl,1589,Start
+Rivington St & Ridge St,1589,Start
+E 5 St & Avenue C,1567,Start
+Columbia St & Rivington St,1562,Start
+Grand St & Greene St,1362,Start
+Broad St & Bridge St,1338,Start
+Pearl St & Anchorage Pl,1336,Start
+Cherry St,1320,Start
+Clinton Ave & Myrtle Ave,1290,Start
+Madison St & Montgomery St,1280,Start
+Clinton St & Tillary St,1260,Start
+E 43 St & 2 Ave,1254,Start
+Market St & Cherry St,1248,Start
+Bond St & Schermerhorn St,1244,Start
+Montague St & Clinton St,1173,Start
+Pike St & Monroe St,1153,Start
+Cadman Plaza E & Tillary St,1148,Start
+St James Pl & Pearl St,1141,Start
+Madison St & Clinton St,1121,Start
+Johnson St & Gold St,1116,Start
+Adelphi St & Myrtle Ave,1107,Start
+E 6 St & Avenue D,1103,Start
+Lafayette Ave & Fort Greene Pl,1090,Start
+Cumberland St & Lafayette Ave,1085,Start
+Pike St & E Broadway,1057,Start
+Little West St & 1 Pl,1048,Start
+Fulton St & Waverly Ave,1041,Start
+Stanton St & Mangin St,981,Start
+Grand St & Havemeyer St,946,Start
+Carlton Ave & Park Ave,946,Start
+DeKalb Ave & S Portland Ave,937,Start
+Willoughby Ave & Hall St,930,Start
+Clinton St & Joralemon St,916,Start
+Shevchenko Pl & E 6 St,910,Start
+Laight St & Hudson St,906,Start
+Avenue D & E 8 St,894,Start
+S 4 St & Wythe Ave,885,Start
+Avenue D & E 3 St,882,Start
+Lefferts Pl & Franklin Ave,876,Start
+S 3 St & Bedford Ave,876,Start
+Pitt St & Stanton St,867,Start
+Columbia Heights & Cranberry St,855,Start
+Broadway & Berry St,852,Start
+Flushing Ave & Carlton Ave,851,Start
+E 59 St & Sutton Pl,826,Start
+Clermont Ave & Lafayette Ave,810,Start
+E 52 St & 2 Ave,806,Start
+Front St & Gold St,803,Start
+Willoughby St & Fleet St,793,Start
+Washington Park,763,Start
+Duffield St & Willoughby St,717,Start
+E 27 St & 1 Ave,714,Start
+Lexington Ave & Classon Ave,651,Start
+E 56 St & Madison Ave,647,Start
+Lafayette Ave & Classon Ave,643,Start
+Kent Ave & S 11 St,619,Start
+Washington Ave & Park Ave,606,Start
+Willoughby Ave & Walworth St,601,Start
+Lafayette Ave & St James Pl,585,Start
+S Portland Ave & Hanson Pl,582,Start
+Fulton St & Grand Ave,572,Start
+DeKalb Ave & Vanderbilt Ave,566,Start
+Henry St & Poplar St,562,Start
+Concord St & Bridge St,552,Start
+Sands St & Gold St,520,Start
+Catherine St & Monroe St,510,Start
+Fulton St & Clermont Ave,508,Start
+Avenue D & E 12 St,505,Start
+Macon St & Nostrand Ave,491,Start
+Clinton Ave & Flushing Ave,488,Start
+Emerson Pl & Myrtle Ave,477,Start
+Washington Ave & Greene Ave,466,Start
+Gallatin Pl & Livingston St,441,Start
+Nassau St & Navy St,417,Start
+Clermont Ave & Park Ave,399,Start
+Myrtle Ave & St Edwards St,396,Start
+3 Ave & Schermerhorn St,392,Start
+E 55 St & Lexington Ave,363,Start
+Monroe St & Bedford Ave,363,Start
+DeKalb Ave & Skillman St,335,Start
+Jay St & Tech Pl,333,Start
+Hancock St & Bedford Ave,331,Start
+Monroe St & Classon Ave,329,Start
+Franklin Ave & Myrtle Ave,295,Start
+Bedford Ave & S 9th St,294,Start
+Hanover Pl & Livingston St,225,Start
+Cadman Plaza E & Red Cross Pl,175,Start
+7 Ave & Farragut St,162,Start
+Park Ave & St Edwards St,117,Start
+Railroad Ave & Kay Ave,116,Start
